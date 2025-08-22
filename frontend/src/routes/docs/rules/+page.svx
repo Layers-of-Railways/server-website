@@ -7,6 +7,8 @@
 - **Client Mods** - You are free to add additional clients mods as long as they don't give you a significant advantage over other players. If you aren't sure if a mod violates this rule ask a member of staff before using it.
 - **Exploits** - Please report any exploits privately to a Moderator / Admin in-game or via Discord. If a member of staff finds you are using an exploit deliberately you will be banned.
 - **Advertising** - No self-promotion or advertising within chat unless you're referring to a form of in-game trade.
+- **Inactive Players** - If a player is inactive for more than 3 months their claims may be removed and returned to their nation (if they are part of one) or the wilderness. If they have dual citizenship it will likely be returned to the nation closest to their claim.
+- **Train Schedules** - We have a lot of scheduled trains and put together they contribute a lot towards server lag. We require you submit all train schedules to the [Trains With Looping Schedules Submission Thread](https://discord.com/channels/706277846389227612/1360072442537840748) within Discord.
 
 ## Reporting Issues
 If you have an issue contact a staff member instead of causing things to escalate further. If your issue is with a staff member contact a different staff member instead privately. We take complaints very seriously but may require proof before taking any action.
