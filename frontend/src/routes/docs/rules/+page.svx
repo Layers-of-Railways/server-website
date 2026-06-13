@@ -1,4 +1,4 @@
-# Rules
+# Server Rules
 - **Treat others with respect** - Any form of harassment, bullying, or hate speech based on gender, race, religion etc... wont be tolerated.
 - **Keep it PG13** - This is not an adult only server. No sexual, violent, or overly mature content.
 - **Griefing and Stealing** - Destroying other players' builds or stealing is prohibited. This includes moving trains without permission.
@@ -10,8 +10,18 @@
 - **Inactive Players** - If a player is inactive for more than 3 months their claims may be removed and returned to their nation (if they are part of one) or the wilderness. If they have dual citizenship it will likely be returned to the nation closest to their claim.
 - **Train Schedules** - We have a lot of scheduled trains and put together they contribute a lot towards server lag. We require you submit all train schedules to the [Trains With Looping Schedules Submission Thread](https://discord.com/channels/706277846389227612/1360072442537840748) within Discord.
 
+# Moderator Rules
+A Moderator or Helper should never...
+
+- **Break server rules** - A staff member cannot break any of the existing server rules and should never be treated more favourably than a regular player.
+- **Abuse the use of operator commands or creative features** - For e.g. kicking or banning a player unneccesarily, spawning in hoards of hostile mobs to attack players.
+- **Use creative mode for their own benefit** - This could be something as simple as placing a schematic to see it's size within the world. It's something a player can't do and neither should a staff member.
+- **Teleport to other players if a player doesn't need help** - Spectator mode is the only exception here as we need to use it to keep an eye on the server and check for griefing, stealing, x-ray hackers etc...
+
+In addition, **when informing a player of a moderation decision, staff must use text chat**. Staff can have discussions within VC but final statements such as "You have been banned for X thing for Y reason" must be sent via text chat so a record can be kept for future reference. These messages should not be deleted, unless strictly neccesary.
+
 ## Reporting Issues
-If you have an issue contact a staff member instead of causing things to escalate further. If your issue is with a staff member contact a different staff member instead privately. We take complaints very seriously but may require proof before taking any action.
+If you have an issue we reccomend you either create a Modmail ticket or contact a staff member. If your issue is with a staff member contact a different staff member instead privately. We take complaints very seriously but may require proof before taking any action.
 
 ## Rule Changes
 We may change any of these rules in the future without prior notice. We will let all players know immediately after a rule has been changed and give appropriate time for players to adjust.
