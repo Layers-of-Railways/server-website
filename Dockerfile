@@ -19,7 +19,7 @@ RUN --mount=type=cache,target=/build/target \
 
 ################################################################################
 
-FROM node:20-slim AS frontend-build
+FROM node:24-slim AS frontend-build
 
 ENV PNPM_HOME="/pnpm"
 ENV PATH="$PNPM_HOME:$PATH"
