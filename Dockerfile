@@ -29,7 +29,7 @@ WORKDIR /frontend
 
 COPY frontend/ .
 
-RUN --mount=type=cache,id=pnpm,target=/pnpm/store pnpm install
+RUN --mount=type=cache,id=pnpm,target=/pnpm/store pnpm install --frozen-lockfile
 RUN --mount=type=cache,id=pnpm,target=/pnpm/store pnpm build
 
 ################################################################################
