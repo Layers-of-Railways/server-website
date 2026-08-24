@@ -7,8 +7,13 @@
 - **Client Mods** - You are free to add additional clients mods as long as they don't give you a significant advantage over other players. If you aren't sure if a mod violates this rule ask a member of staff before using it.
 - **Exploits** - Please report any exploits privately to a Moderator / Admin in-game or via Discord. If a member of staff finds you are using an exploit deliberately you will be banned.
 - **Advertising** - No self-promotion or advertising within chat unless you're referring to a form of in-game trade.
+- **Avoid Large Scale Drilling** - Large scale drill contraptions that are not used for train tunnels, and underground build projects should be avoided. This is a case by case basis but if Mod feedback directed to you is ignored, it will result in a warning.
+- **Claims** - Players are only allowed to use dotted chunk claims if they are in a nation. For nation members, satellite claims are only permitted if there are active plans in the area, not to hoard for any reason. Mods will go off a case by case basis nonetheless.
 - **Inactive Players** - If a player is inactive for more than 3 months their claims may be removed and returned to their nation (if they are part of one) or the wilderness. If they have dual citizenship it will likely be returned to the nation closest to their claim.
 - **Train Schedules** - We have a lot of scheduled trains and put together they contribute a lot towards server lag. We require you submit all train schedules to the [Trains With Looping Schedules Submission Thread](https://discord.com/channels/706277846389227612/1360072442537840748) within Discord.
+- **Disassembling Trains** - When having an unscheduled parked train, please be sure to disassemble it if it's not used for freight or personal driving. If server lag and TPS becomes an issue, modteam will likely initiate a train purge and disassemble all trains to free up TPS issues and schedule slots
+- **Mainline Standards** - For a guide in building train infrastructure, here is the Mainline Standards Handbook: https://discord.com/channels/706277846389227612/1151598592637804647/1344550922151395470
+- **Moderators on Break** - Mods with the "On Break" tag should be treated like any other player. If you need help with something, ping a Mod without that tag.
 
 # Moderator Rules
 A Moderator or Helper should never...
