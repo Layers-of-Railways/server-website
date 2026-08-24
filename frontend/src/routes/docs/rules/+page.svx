@@ -12,6 +12,7 @@
 - **Inactive Players** - If a player is inactive for more than 3 months their claims may be removed and returned to their nation (if they are part of one) or the wilderness. If they have dual citizenship it will likely be returned to the nation closest to their claim.
 - **Train Schedules** - We have a lot of scheduled trains and put together they contribute a lot towards server lag. We require you submit all train schedules to the [Trains With Looping Schedules Submission Thread](https://discord.com/channels/706277846389227612/1360072442537840748) within Discord.
 - **Disassembling Trains** - When having an unscheduled parked train, please be sure to disassemble it if it's not used for freight or personal driving. If server lag and TPS becomes an issue, modteam will likely initiate a train purge and disassemble all trains to free up TPS issues and schedule slots
+- Mainline Standards For a guide in building train infrastructure, here is the Mainline Standards Handbook: https://discord.com/channels/706277846389227612/1151598592637804647/1344550922151395470
 - **Moderators on Break** - Mods with the "On Break" tag should be treated like any other player. If you need help with something, ping a Mod without that tag.
 
 # Moderator Rules
